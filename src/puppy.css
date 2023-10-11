@@ -1,3 +1,19 @@
 div {
     color: purple;
+    
+}
+
+.App {
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+}
+
+ul{
+    list-style: none;
+}
+
+div h2 {
+    border-top: 1px solid lightgrey;
 }
