@@ -1,10 +1,7 @@
 import { puppyList } from "./data.js";
 import { useState } from "react";
 import "./App.css";
-<<<<<<< HEAD
 import "./puppy.css";
-=======
->>>>>>> 9e6afd9f6c5cc151d3170f2175b305dc638cf07b
 
 function App() {
   const [count, setCount] = useState(0);
@@ -44,8 +41,4 @@ function App() {
   );
 }
 
-<<<<<<< HEAD
 export default App;
-=======
-export default App;
->>>>>>> 9e6afd9f6c5cc151d3170f2175b305dc638cf07b
